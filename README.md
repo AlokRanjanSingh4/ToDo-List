@@ -7,7 +7,7 @@ This application is developed for my first round of interview.
 <table width="100%">
 	<tr>
     	  <th width="33%"><img src="p1.jpg"></th>
-    		<th width="33%"><img src="p1.jpg"></th>
+    		<th width="33%"><img src="p2.jpg"></th>
 	</tr>
 </table>
 
